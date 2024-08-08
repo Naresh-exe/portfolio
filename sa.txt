@@ -1,0 +1,19 @@
+ <nav class="navbar fixed-top navbar-expand-lg">
+            <div class="row  w-100" style="padding:30px; background-color: white;" id="anton-regular" >
+                <div class="col-sm-3 text-center">
+                    <h3 style="margin-left: 4%;">Naresh Balaji</h3>
+                </div>
+                <div class="col">
+                    <ul class="d-sm-flex justify-content-end text-center">
+                        <li style="margin-right: 5%;"><a href="#section1">Home</a></li>
+                        <li style="margin-right: 5%;"><a href="#">About</a></li>
+                        <li style="margin-right: 5%;"><a href="#section2">Work</a></li>
+                        <li style="margin-right: 5%;"><a href="#section3">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+   <div class="col-md ms-4"  style="margin-top: 10%;">
+                        <p class="fs-3 fw-bold"></p>    
+                    </div>
